@@ -1,5 +1,5 @@
 let color = "black";
-let click = "false";
+let click = false;
 
 document.addEventListener("DOMContentLoaded", function(){
     createBoard(16);
